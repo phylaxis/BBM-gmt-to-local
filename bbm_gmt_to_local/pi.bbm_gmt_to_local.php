@@ -15,7 +15,7 @@ $plugin_info = array(
 /**
 * BBM Dated Plugin Class
 *
-* @package			bbm-isnew-ee2_addon
+* @package			bbm_gmt_to_local-ee2_addon
 * @version			1.0
 * @author			Adam Christianson <adam@backbeatmedia.com>
 * @link				http://backbeatmedia.com/
