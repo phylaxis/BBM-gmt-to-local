@@ -1,7 +1,11 @@
 BBM-gmt-to-local
 ================
 
-Expression Engine Plug-in to take GMT time and convert it to a local timezone
+Expression Engine Plug-in to take GMT time and convert it to a local timezone.
+
+Particularly useful if you want to use the {gmt_entry_date format="%Y %m %d"} tag to force entry dates to always be displayed in a specific timezone and format. For example:  
+
+{exp:bbm_gmt_to_local gmt='{gmt_entry_date format="%D, %d %M %Y %H:%i:%s %O"}' tz='America/Los Angeles' format='g:i A, M. jS, Y'}
 
 Parameters
 ==================================
