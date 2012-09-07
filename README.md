@@ -24,14 +24,17 @@ Parameters
 
 Tag
 ==================================
-{exp:bbm_gmt_to_local gmt=gmt='Thu, 06 Sep 2012 18:55:25 +0000'}
+
+  {exp:bbm_gmt_to_local gmt=gmt='Thu, 06 Sep 2012 18:55:25 +0000'}
+
 Return
 ==================================
 Returns the converted time in the format requested
 
 Example
 ===========================
-{exp:bbm_gmt_to_local gmt='Thu, 06 Sep 2012 18:55:25 +0000' tz='America/Los_Angeles' format='F jS, Y, g:ia T'}
+
+  {exp:bbm_gmt_to_local gmt='Thu, 06 Sep 2012 18:55:25 +0000' tz='America/Los_Angeles' format='F jS, Y, g:ia T'}
 
 Changelog
 ===========================
