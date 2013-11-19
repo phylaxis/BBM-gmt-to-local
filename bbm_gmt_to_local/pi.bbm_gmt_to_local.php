@@ -98,7 +98,8 @@ class Bbm_gmt_to_local {
         
         Tag
         ==================================
-		{exp:bbm_gmt_to_local gmt=gmt='Thu, 06 Sep 2012 18:55:25 +0000'}
+		{exp:bbm_gmt_to_local gmt='Thu, 06 Sep 2012 18:55:25 +0000'}
+		
 		Return
         ==================================
         Returns the converted time in the format requested

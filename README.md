@@ -25,7 +25,7 @@ Parameters
 Tag
 ==================================
 
-  	{exp:bbm_gmt_to_local gmt=gmt='Thu, 06 Sep 2012 18:55:25 +0000'}
+  	{exp:bbm_gmt_to_local gmt='Thu, 06 Sep 2012 18:55:25 +0000'}
 
 Return
 ==================================
